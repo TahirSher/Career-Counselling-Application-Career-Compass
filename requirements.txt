@@ -1,0 +1,10 @@
+streamlit
+transformers
+datasets
+peft
+pandas
+numpy
+huggingface-hub
+torch
+kaggle
+requests
